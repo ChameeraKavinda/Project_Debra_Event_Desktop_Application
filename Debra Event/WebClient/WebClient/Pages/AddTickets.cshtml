@@ -1,0 +1,201 @@
+﻿@page
+@model WebClient.Pages.AddTicketsModel
+@{
+}
+<style>
+   /* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Form container styles */
+.form-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px; /* Adjust spacing between forms */
+}
+
+/* Form styles */
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 45%; /* Adjust width to fit two forms side by side */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table td {
+    padding: 10px;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="date"],
+select {
+    width: calc(100% - 20px);
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+/* Contact form styles */
+.contact-form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 45%; /* Adjust width to fit two forms side by side */
+}
+
+.contact-form .input-box {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.contact-form .input-box input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: none;
+    color: #333;
+}
+
+.contact-form .input-box span {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0 5px;
+    background: #fff;
+    color: #999;
+    transition: 0.3s;
+    pointer-events: none;
+}
+
+.contact-form .input-box input:focus + span,
+.contact-form .input-box input:valid + span {
+    top: -10px;
+    left: 5px;
+    color: #4CAF50;
+    font-size: 12px;
+}
+
+.contact-form .input-box input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.contact-form .input-box input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+
+</style>
+<div class="form-container">
+    <form method="post" class="ticket-form">
+        <h2>Ticket Details</h2>
+        <table>
+            <tr>
+                <td>Id</td>
+                <td><input type="number" asp-for="tickets.Id"/></td>
+            </tr>
+            <tr>
+                <td>Ticket Name</td>
+                <td><input type="text" asp-for="tickets.Title"/></td>
+            </tr>
+            <tr>
+                <td>Ticket Price</td>
+                <td><input type="number" asp-for="tickets.Price"/></td>
+            </tr>
+            <tr>
+                <td>IsSold</td>
+                <td>
+                    <select asp-for="tickets.IsSold">
+                        <option value="true">true</option>
+                        <option value="false">false</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>SelDate</td>
+                <td><input type="date" asp-for="tickets.SelDate"/></td>
+            </tr>
+            <tr>
+                <td><input type="submit" name="btnAdd" value="Sell Ticket"/></td>
+                <td></td>
+            </tr>
+        </table>
+    </form>
+
+    <div class="contact-form">
+        <form name="contact-form" action="" method="post">
+            <h2>Fill Your Details</h2>
+            <div class="input-box">
+                <input type="text" name="full_name" required="required">
+                <span>Full Name</span>
+            </div>
+            <div class="input-box">
+                <input type="text" name="email" required="required">
+                <span>Email</span>
+            </div>
+            <div class="input-box">
+                <input type="text" name="message" required="required">
+                <span>Event Name</span>
+            </div>
+            <div class="input-box">
+                <input type="submit" name="" value="Apply Details">
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+const scriptURL = 'https://script.google.com/macros/s/AKfycbwA89ce-1QKBXbxBHOKqHGBudie7rxiljARwMpftueMicP8ZGs_ZXJmtJjEIa6toxMW/exec'; // Replace with your actual Web App URL
+
+const form = document.forms['contact-form'];
+
+form.addEventListener('submit', e => {
+    e.preventDefault();
+
+    fetch(scriptURL, { method: 'POST', body: new FormData(form) })
+    .then(response => alert("Thank you."))
+    .then(() => { window.location.reload(); })
+    .catch(error => console.error('Error!', error.message));
+});
+</script>

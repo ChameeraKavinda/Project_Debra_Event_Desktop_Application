@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\eventoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:eventoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\eventoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:eventoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|d:\\pen\\icbt semesters\\4 sem\\soc\\6412soc\\debraapplication\\debraevents\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\introdebra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:introdebra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\introdebra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:introdebra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\debraadminticketoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:debraadminticketoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\debraadminticketoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:debraadminticketoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\ticketoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:ticketoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\ticketoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:ticketoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\debraadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:debraadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\debraadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:debraadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\debraadmineventoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:debraadmineventoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\debraadminoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:debraadminoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\debraadminregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:debraadminregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\debraoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:debraoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\selticketdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:selticketdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\managepartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:managepartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\managepartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:managepartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\debraadmineventoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:debraadmineventoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\debraadminregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:debraadminregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\debradashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:debradashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\debraadminoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:debraadminoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\managepartner.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:managepartner.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\debradashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:debradashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\debraoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:debraoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\selticketdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:selticketdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\eventoption.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:eventoption.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\ticketoption.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE0406-724D-4D6C-91E9-51199F8AC0CD}|DebraEvents.csproj|solutionrelative:ticketoption.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DebraAdminTicketOption.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminTicketOption.cs",
+              "RelativeDocumentMoniker": "DebraAdminTicketOption.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminTicketOption.cs",
+              "RelativeToolTip": "DebraAdminTicketOption.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAEwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T20:43:16.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntroDebra.cs [Design]",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\IntroDebra.cs",
+              "RelativeDocumentMoniker": "IntroDebra.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\IntroDebra.cs [Design]",
+              "RelativeToolTip": "IntroDebra.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:37:39.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntroDebra.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\IntroDebra.cs",
+              "RelativeDocumentMoniker": "IntroDebra.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\IntroDebra.cs",
+              "RelativeToolTip": "IntroDebra.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T17:43:45.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAhwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:10:49.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventOption.cs [Design]",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\EventOption.cs",
+              "RelativeDocumentMoniker": "EventOption.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\EventOption.cs [Design]",
+              "RelativeToolTip": "EventOption.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:26:42.343Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventOption.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\EventOption.cs",
+              "RelativeDocumentMoniker": "EventOption.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\EventOption.cs",
+              "RelativeToolTip": "EventOption.cs",
+              "ViewState": "AQIAAE8AAABAyszMzMwowGQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:45:16.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DebraAdminTicketOption.cs [Design]",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminTicketOption.cs",
+              "RelativeDocumentMoniker": "DebraAdminTicketOption.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminTicketOption.cs [Design]",
+              "RelativeToolTip": "DebraAdminTicketOption.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T20:15:27.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketOption.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\TicketOption.cs",
+              "RelativeDocumentMoniker": "TicketOption.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\TicketOption.cs",
+              "RelativeToolTip": "TicketOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:43:20.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketOption.cs [Design]",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\TicketOption.cs",
+              "RelativeDocumentMoniker": "TicketOption.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\TicketOption.cs [Design]",
+              "RelativeToolTip": "TicketOption.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:43:16.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DebraAdmin.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdmin.cs",
+              "RelativeDocumentMoniker": "DebraAdmin.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdmin.cs",
+              "RelativeToolTip": "DebraAdmin.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAIwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:05:32.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DebraAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdmin.cs",
+              "RelativeDocumentMoniker": "DebraAdmin.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdmin.cs [Design]",
+              "RelativeToolTip": "DebraAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:04:35.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DebraAdminEventOption.cs [Design]",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminEventOption.cs",
+              "RelativeDocumentMoniker": "DebraAdminEventOption.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminEventOption.cs [Design]",
+              "RelativeToolTip": "DebraAdminEventOption.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:43:02.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DebraAdminOption.cs [Design]",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminOption.cs",
+              "RelativeDocumentMoniker": "DebraAdminOption.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminOption.cs [Design]",
+              "RelativeToolTip": "DebraAdminOption.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:18:51.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DebraAdminRegister.cs [Design]",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminRegister.cs",
+              "RelativeDocumentMoniker": "DebraAdminRegister.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminRegister.cs [Design]",
+              "RelativeToolTip": "DebraAdminRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:34:24.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:05:55.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\Register.cs",
+              "RelativeToolTip": "Register.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAtwDYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:19:41.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\Register.cs [Design]",
+              "RelativeToolTip": "Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:17:32.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DebraOption.cs [Design]",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraOption.cs",
+              "RelativeDocumentMoniker": "DebraOption.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraOption.cs [Design]",
+              "RelativeToolTip": "DebraOption.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:18:26.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T17:20:24.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SelTicketDisplay.cs [Design]",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\SelTicketDisplay.cs",
+              "RelativeDocumentMoniker": "SelTicketDisplay.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\SelTicketDisplay.cs [Design]",
+              "RelativeToolTip": "SelTicketDisplay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:55:36.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManagePartner.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\ManagePartner.cs",
+              "RelativeDocumentMoniker": "ManagePartner.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\ManagePartner.cs",
+              "RelativeToolTip": "ManagePartner.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAtwFIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:35:31.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManagePartner.cs [Design]",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\ManagePartner.cs",
+              "RelativeDocumentMoniker": "ManagePartner.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\ManagePartner.cs [Design]",
+              "RelativeToolTip": "ManagePartner.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:35:19.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DebraAdminEventOption.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminEventOption.cs",
+              "RelativeDocumentMoniker": "DebraAdminEventOption.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminEventOption.cs",
+              "RelativeToolTip": "DebraAdminEventOption.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAlwGQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:15:36.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DebraAdminRegister.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminRegister.cs",
+              "RelativeDocumentMoniker": "DebraAdminRegister.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminRegister.cs",
+              "RelativeToolTip": "DebraAdminRegister.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAhwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:28:11.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DebraDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraDashboard.cs",
+              "RelativeDocumentMoniker": "DebraDashboard.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraDashboard.cs [Design]",
+              "RelativeToolTip": "DebraDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:23:01.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DebraAdminOption.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminOption.cs",
+              "RelativeDocumentMoniker": "DebraAdminOption.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraAdminOption.cs",
+              "RelativeToolTip": "DebraAdminOption.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAEwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:04:34.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManagePartner.Designer.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\ManagePartner.Designer.cs",
+              "RelativeDocumentMoniker": "ManagePartner.Designer.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\ManagePartner.Designer.cs",
+              "RelativeToolTip": "ManagePartner.Designer.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAtwPsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:10:32.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DebraDashboard.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraDashboard.cs",
+              "RelativeDocumentMoniker": "DebraDashboard.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraDashboard.cs",
+              "RelativeToolTip": "DebraDashboard.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:24:17.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DebraOption.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraOption.cs",
+              "RelativeDocumentMoniker": "DebraOption.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\DebraOption.cs",
+              "RelativeToolTip": "DebraOption.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAtwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:15:08.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-01T05:14:05.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SelTicketDisplay.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\SelTicketDisplay.cs",
+              "RelativeDocumentMoniker": "SelTicketDisplay.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\SelTicketDisplay.cs",
+              "RelativeToolTip": "SelTicketDisplay.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:58:37.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EventOption.Designer.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\EventOption.Designer.cs",
+              "RelativeDocumentMoniker": "EventOption.Designer.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\EventOption.Designer.cs",
+              "RelativeToolTip": "EventOption.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:40:55.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:25:37.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TicketOption.Designer.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\TicketOption.Designer.cs",
+              "RelativeDocumentMoniker": "TicketOption.Designer.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\DebraApplication\\DebraEvents\\TicketOption.Designer.cs",
+              "RelativeToolTip": "TicketOption.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:19:32.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

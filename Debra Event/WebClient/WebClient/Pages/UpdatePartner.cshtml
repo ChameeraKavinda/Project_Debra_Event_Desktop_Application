@@ -1,0 +1,36 @@
+﻿@page
+@model WebClient.Pages.UpdatePartnerModel
+@{
+}
+<form method="post">
+    <table>
+         <tr>
+            <td>Id</td>
+            <td><input type="number" readonly asp-for="partner.Id"/></td>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td><input type="text"asp-for="partner.Name"/></td>
+        </tr>
+         <tr>
+            <td>Address</td>
+             <td><input type="text"asp-for="partner.Address"/></td>
+        </tr>
+        <tr>
+            <td>Email</td>
+             <td><input type="text"asp-for="partner.Email"/></td>
+        </tr>
+        <tr>
+            <td>PhoneNumber</td>
+             <td><input type="text"asp-for="partner.PhoneNumber"/></td>
+        </tr>
+        <tr>
+            <td>Password</td>
+             <td><input type="text"asp-for="partner.Password"/></td>
+        </tr>
+        <tr>
+        <td><input type="submit" name="btnUpdate"value="Update" asp-page-handler="Update"/></td>
+             <td><input type="submit" id="btnDelete"value="Delete"asp-page-handler="Delete"/></td>
+        </tr>
+    </table>
+</form>

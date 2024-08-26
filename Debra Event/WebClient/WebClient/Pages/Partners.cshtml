@@ -1,0 +1,35 @@
+﻿@page
+@model WebClient.Pages.PartnersModel
+@{
+}
+<body>
+    <a asp-page="RegisterPartner">Add New</a>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Email</th>
+            <th>PhoneNumber</th>
+             <th>Password</th>
+            <th></th>
+        </tr>
+        @foreach (var partner in Model.Partners)
+        {
+                <tr>
+                        <td>@partner.Id</td>
+                        <td>@partner.Name</td>
+                        <td>@partner.Address</td>
+                        <td>@partner.Email</td>
+                        <td>@partner.PhoneNumber</td>
+                        <td>@partner.Password</td>
+                        
+                    <td>
+                            <a asp-page="UpdatePartner"asp-route-id="@partner.Id">Edit</a>
+                    </td>
+
+
+                </tr>
+        }
+    </table>
+</body>

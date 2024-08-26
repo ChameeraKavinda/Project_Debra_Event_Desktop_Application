@@ -1,0 +1,38 @@
+﻿@page
+@model WebClient.Pages.AddEventsModel
+@{
+}
+
+<form method="post">
+    <table>
+        <tr>
+            <td>Id</td>
+            <td><input type="number" readonly asp-for="events.Id"/></td>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td><input type="text"asp-for="events.Name"/></td>
+        </tr>
+         <tr>
+            <td>Description</td>
+             <td><textarea cols="20" rows="10" asp-for="events.Description"/></textarea></td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td><input type="text"asp-for="events.Location"/></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td><input type="date"asp-for="events.Date"/></td>
+        </tr>
+        <tr>
+            <td>PartnerId</td>
+            <td><input type="number"asp-for="events.PartnerId"/></td>
+        </tr>
+        <tr>
+        <td><input type="submit" name="btnAdd"value="Add New"/></td>
+             <td></td>
+        </tr>
+    </table>
+</form>
+

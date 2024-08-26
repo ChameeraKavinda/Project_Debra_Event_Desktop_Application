@@ -1,0 +1,85 @@
+﻿@page
+@model WebClient.Pages.TicketsModel
+@{
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        * {
+            background-color: rgb(206, 202, 202);
+            align-items: center;
+        }
+
+        .table_container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-top: 35px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin: auto;
+        }
+
+        th, td {
+            border: 1px solid black;
+            text-align: center;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+            color: black;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        .table_title {
+            margin-bottom: 15px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="table_container">
+        <div class="table_title">Ticket Details</div>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Ticket Name</th>
+                <th>Ticket Price</th>
+                <th>IsSold</th>
+                <th>Commission</th>
+                <th>SelDate</th>
+              
+            </tr>
+            @foreach (var ticket in Model.Tickets)
+            {
+                            <tr>
+                                            <td>@ticket.Id</td>
+                                            <td>@ticket.Title</td>
+                                            <td>@ticket.Price</td>
+                                            <td>@ticket.IsSold</td>
+                                            <td>@ticket.Commision</td>
+                                            <td>@ticket.SelDate</td>
+                                           
+
+                          </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>
+

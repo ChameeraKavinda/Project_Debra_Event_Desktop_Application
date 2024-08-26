@@ -1,0 +1,33 @@
+﻿@page
+@model WebClient.Pages.AddItemModel
+@{
+}
+<form method="post">
+    <table>
+        <tr>
+            <td>Id</td>
+            <td><input type="number" readonly asp-for="item.Id"/></td>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td><input type="text"asp-for="item.Name"/></td>
+        </tr>
+         <tr>
+            <td>Price</td>
+             <td><input type="numbers"asp-for="item.Price"/></td>
+        </tr>
+        <tr>
+            <td>Stock</td>
+             <td><input type="numbers"asp-for="item.Stock"/></td>
+        </tr>
+         <tr>
+            <td>Description</td>
+             <td><textarea cols="20" rows="10" asp-for="item.Description"/></textarea></td>
+        </tr>
+        <tr>
+        <td><input type="submit" name="btnAdd"value="Add New"/></td>
+             <td></td>
+        </tr>
+    </table>
+</form>
+

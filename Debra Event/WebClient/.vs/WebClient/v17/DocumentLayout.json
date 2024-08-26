@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|d:\\pen\\icbt semesters\\4 sem\\soc\\6412soc\\webclient\\webclient\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\partnerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\partnerlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\controller\\debraadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\controller\\debraadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\model\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\model\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\addtickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\addtickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\addtickets.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\addtickets.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\tickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\tickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\tickets.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\tickets.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\partnerlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\partnerlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\option.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\option.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\adminlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\adminlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\manageevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\manageevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\registerpartner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\registerpartner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\registerpartner.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\registerpartner.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\partners.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\partners.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\model\\partners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\model\\partners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\partners.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\partners.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\items.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\items.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\model\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\model\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\additem.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\additem.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\events.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\events.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\model\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\model\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\webclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\webclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\webclient\\pages\\updatepartner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D673C567-CDA0-4E53-9EA9-8B45B2F4E67D}|WebClient\\WebClient.csproj|solutionrelative:webclient\\pages\\updatepartner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Option.cshtml",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Option.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Option.cshtml",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Option.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\Option.cshtml",
+              "ViewState": "AQIAAC0AAABAMzMzMzMbwDkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T13:35:17.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Events.cshtml",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Events.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Events.cshtml",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Events.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\Events.cshtml",
+              "ViewState": "AQIAAEIAAAAAZ2ZmZkYwwEIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T15:11:43.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartnerLogin.cshtml",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\PartnerLogin.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\PartnerLogin.cshtml",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\PartnerLogin.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\PartnerLogin.cshtml",
+              "ViewState": "AQIAAAEAAADAMTMzM5MwwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T14:37:15.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Model\\Admin.cs",
+              "RelativeDocumentMoniker": "WebClient\\Model\\Admin.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Model\\Admin.cs",
+              "RelativeToolTip": "WebClient\\Model\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:13:24.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DebraAdminController.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Controller\\DebraAdminController.cs",
+              "RelativeDocumentMoniker": "WebClient\\Controller\\DebraAdminController.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Controller\\DebraAdminController.cs",
+              "RelativeToolTip": "WebClient\\Controller\\DebraAdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:07:16.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAGoAAAAAv8zMzMwXwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T15:16:58.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebClient\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebClient\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-22T18:01:33.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTickets.cshtml",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\AddTickets.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\AddTickets.cshtml",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\AddTickets.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\AddTickets.cshtml",
+              "ViewState": "AQIAABAAAAAAKjMzMzMLwMQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T13:54:50.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tickets.cshtml.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Tickets.cshtml.cs",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Tickets.cshtml.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Tickets.cshtml.cs",
+              "RelativeToolTip": "WebClient\\Pages\\Tickets.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:15:23.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PartnerLogin.cshtml.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\PartnerLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\PartnerLogin.cshtml.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\PartnerLogin.cshtml.cs",
+              "RelativeToolTip": "WebClient\\Pages\\PartnerLogin.cshtml.cs",
+              "ViewState": "AQIAABsAAAAAZ2ZmZmYqwCgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:38:31.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tickets.cshtml",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Tickets.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Tickets.cshtml",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Tickets.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\Tickets.cshtml",
+              "ViewState": "AQIAADcAAABAAAAAAAAhwEoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T15:11:27.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddTickets.cshtml.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\AddTickets.cshtml.cs",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\AddTickets.cshtml.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\AddTickets.cshtml.cs",
+              "RelativeToolTip": "WebClient\\Pages\\AddTickets.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAmZmZmZknwBkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:56:06.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Items.cshtml",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Items.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Items.cshtml",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Items.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\Items.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T17:54:20.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageEvents.cshtml",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\ManageEvents.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\ManageEvents.cshtml",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\ManageEvents.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\ManageEvents.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T15:30:58.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminLogin.cshtml.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\AdminLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\AdminLogin.cshtml.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\AdminLogin.cshtml.cs",
+              "RelativeToolTip": "WebClient\\Pages\\AdminLogin.cshtml.cs",
+              "ViewState": "AQIAABQAAABcmZmZmTk3wC0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:26:12.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterPartner.cshtml",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\RegisterPartner.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\RegisterPartner.cshtml",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\RegisterPartner.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\RegisterPartner.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T12:55:32.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\AdminLogin.cshtml",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\AdminLogin.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\AdminLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T13:25:43.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterPartner.cshtml.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\RegisterPartner.cshtml.cs",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\RegisterPartner.cshtml.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\RegisterPartner.cshtml.cs",
+              "RelativeToolTip": "WebClient\\Pages\\RegisterPartner.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:58:48.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Partners.cshtml",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Partners.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Partners.cshtml",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Partners.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\Partners.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T14:39:51.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Partners.cshtml.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Partners.cshtml.cs",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Partners.cshtml.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Partners.cshtml.cs",
+              "RelativeToolTip": "WebClient\\Pages\\Partners.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:15:16.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Partners.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Model\\Partners.cs",
+              "RelativeDocumentMoniker": "WebClient\\Model\\Partners.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Model\\Partners.cs",
+              "RelativeToolTip": "WebClient\\Model\\Partners.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:36:06.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Items.cshtml.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Items.cshtml.cs",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Items.cshtml.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Items.cshtml.cs",
+              "RelativeToolTip": "WebClient\\Pages\\Items.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:04:26.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Items.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Model\\Items.cs",
+              "RelativeDocumentMoniker": "WebClient\\Model\\Items.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Model\\Items.cs",
+              "RelativeToolTip": "WebClient\\Model\\Items.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:59:35.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddItem.cshtml.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\AddItem.cshtml.cs",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\AddItem.cshtml.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\AddItem.cshtml.cs",
+              "RelativeToolTip": "WebClient\\Pages\\AddItem.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:19:08.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddItem.cshtml",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\AddItem.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\AddItem.cshtml",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\AddItem.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\AddItem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T18:21:05.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebClient\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:58:49.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Events.cshtml.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Events.cshtml.cs",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Events.cshtml.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Events.cshtml.cs",
+              "RelativeToolTip": "WebClient\\Pages\\Events.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAMzMzMzMLwAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:15:05.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdatePartner.cshtml",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\UpdatePartner.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\UpdatePartner.cshtml",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\UpdatePartner.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\UpdatePartner.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T12:55:36.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Tickets.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Model\\Tickets.cs",
+              "RelativeDocumentMoniker": "WebClient\\Model\\Tickets.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Model\\Tickets.cs",
+              "RelativeToolTip": "WebClient\\Model\\Tickets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:08:58.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Admin.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Admin.cshtml",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Admin.cshtml",
+              "RelativeToolTip": "WebClient\\Pages\\Admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T18:28:19.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Admin.cshtml.cs",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Admin.cshtml.cs",
+              "RelativeDocumentMoniker": "WebClient\\Pages\\Admin.cshtml.cs",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\Pages\\Admin.cshtml.cs",
+              "RelativeToolTip": "WebClient\\Pages\\Admin.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T18:10:11.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WebClient",
+              "DocumentMoniker": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\WebClient.csproj",
+              "RelativeDocumentMoniker": "WebClient\\WebClient.csproj",
+              "ToolTip": "D:\\pen\\ICBT Semesters\\4 SEM\\SOC\\6412SOC\\WebClient\\WebClient\\WebClient.csproj",
+              "RelativeToolTip": "WebClient\\WebClient.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T13:06:26.622Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

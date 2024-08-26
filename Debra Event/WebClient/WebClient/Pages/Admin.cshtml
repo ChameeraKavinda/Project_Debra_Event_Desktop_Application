@@ -1,0 +1,25 @@
+﻿@page
+@model WebClient.Pages.AdminModel
+@{
+}
+<body>
+    <table>
+        <tr>
+            <th>AdminId</th>
+            <th>AdminEmail</th>
+            <th>AdminPassword</th>
+            <th></th>
+        </tr>
+        @foreach (var admin in Model.Admin)
+        {
+                        <tr>
+                            <td>@admin.AdminId</td>
+                            <td>@admin.AdminEmail</td><span></span>
+                            <td>@admin.AdminPassword</td>
+                          
+
+
+                        </tr>
+        }
+    </table>
+</body>

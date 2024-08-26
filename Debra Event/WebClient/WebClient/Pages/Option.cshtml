@@ -1,0 +1,62 @@
+﻿@page
+@model WebClient.Pages.OptionModel
+@{
+}
+
+<style>
+* {
+    background-color: rgb(212, 202, 202);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.center-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.button-container a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+    display: block;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+    background-color: rgb(85, 117, 126);
+    text-align: center;
+    border: none; 
+    box-shadow: none; 
+}
+
+.button-container a:hover {
+    background-color: palevioletred;
+    border: none; 
+    box-shadow: none; 
+}
+
+
+
+</style>
+
+<div class="center-container">
+    <h2>Admin Management Center</h2>
+    <div class="button-container">
+        <button><a href="/Partners">View PartnerDetails</a></button>
+        <button><a href="/Events">View EventDetails</a></button>
+        <button><a href="/Tickets">View TicketsDetails</a></button>
+        <button><a href="/Admin">View AdminDetails</a></button>
+    </div>
+</div>

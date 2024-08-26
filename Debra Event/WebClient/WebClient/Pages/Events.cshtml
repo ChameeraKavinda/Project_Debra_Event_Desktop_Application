@@ -1,0 +1,96 @@
+﻿@page
+@model WebClient.Pages.EventsModel
+@{
+}
+<head>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<style>
+      body {
+        padding: 20px;
+        font-family: Arial, sans-serif;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+        color: black;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    tr:hover {
+        background-color: #ddd;
+    }
+
+    button a {
+        color: white;
+        text-decoration: none;
+    }
+
+    button {
+        background-color: #45a049;
+        border: none;
+        color: white;
+        padding: 5px 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+    button:hover {
+         background-color: #0056b3; 
+        color:white;
+
+
+    }
+
+    button:hover a{
+        color:white;
+        text-decoration: none;
+    }
+</style>
+<body>
+    
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Location</th>
+            <th>Date</th>
+             <th>Process</th>
+            <th></th>
+        </tr>
+        @foreach (var events in Model.Events)
+        {
+                    <tr>
+                                <td>@events.Id</td>
+                                <td>@events.Name</td>
+                                <td>@events.Description</td>
+                                <td>@events.Location</td>
+                                <td>@events.Date</td>
+                                    <td> <button><a href="/AddTickets">Buy Ticket</a></button></td>
+
+                        
+
+                    </tr>
+        }
+    </table>
+</body>

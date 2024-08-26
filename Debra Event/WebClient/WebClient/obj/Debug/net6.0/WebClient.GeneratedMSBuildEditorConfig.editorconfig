@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebClient
+build_property.RootNamespace = WebClient
+build_property.ProjectDir = D:\pen\ICBT Semesters\4 SEM\SOC\6412SOC\WebClient\WebClient\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\pen\ICBT Semesters\4 SEM\SOC\6412SOC\WebClient\WebClient
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/AddEvents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRXZlbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/AddItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkSXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/AddTickets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkVGlja2V0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/EditItems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEl0ZW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/Events.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/Items.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/ManageEvents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlRXZlbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/Option.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3B0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/PartnerLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydG5lckxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/Partners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydG5lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/RegisterPartner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJQYXJ0bmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/Tickets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlja2V0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/UpdatePartner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBkYXRlUGFydG5lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pen/ICBT Semesters/4 SEM/SOC/6412SOC/WebClient/WebClient/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fxb6eae6jp
